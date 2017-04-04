@@ -17,4 +17,4 @@
 - 发送地理位置：      
 ![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/05.jpg)
 ![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/06.jpg)
-![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/07.jpg)
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/07.png)
