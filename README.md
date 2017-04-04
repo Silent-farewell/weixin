@@ -9,5 +9,5 @@
 # 截图   
 关注    
 ![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/01.png)    
-输入"新闻"
+输入"新闻"    
 ![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/02.jpg)
