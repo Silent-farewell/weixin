@@ -7,7 +7,14 @@
 3.发送地理位置，可查询最近的地点  
 
 # 截图   
-关注    
+- 关注    
 ![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/01.png)    
-输入"新闻"    
-![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/02.jpg)
+- 输入"新闻"：    
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/02.jpg)    
+- 输入"听歌"：      
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/03.jpg)
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/04.jpg)     
+- 发送地理位置：      
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/05.jpg)
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/06.jpg)
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/07.jpg)
