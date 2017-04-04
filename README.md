@@ -7,5 +7,5 @@
 3.发送地理位置，可查询最近的地点  
 
 # 截图   
-![image](https://github.com/Silent-farewell/weixin/tree/master/screenshots/1.png)
-![image](https://github.com/Silent-farewell/weixin/tree/master/screenshots/2.jpg)
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/1.png)
+![image](https://github.com/Silent-farewell/weixin/blob/master/screenshots/2.jpg)
